@@ -9,5 +9,12 @@ print(type(2+7j))
 print(type(1.8))
 print(type(name))
 print(type(False))         
-
-  
+x=int(input("enter the value:"))
+y=3
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x//y)
+print(x%y)
+print(x%=y)
